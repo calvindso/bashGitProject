@@ -1,0 +1,2 @@
+# bashGitProject
+Bash scripting
